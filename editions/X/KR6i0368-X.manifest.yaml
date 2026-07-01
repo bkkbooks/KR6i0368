@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6i0368/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0368/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 盂蘭盆經疏會古通今記
+  identifiers:
+    krp: KR6i0368
+    cbeta: X21n0373
+    cbeta_old_id: X21n0373
+    authorityid: CA0003839
+    json_key: X0373
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0373.xml
+    old_id: X21n0373
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0368_000-X.yaml, hash: 'sha256:75dc7c6ea7514725b8cfe1b936015a939e78f94834f11b3af730da3feef0512e'}
+  - {seq: 1, filename: KR6i0368_001-X.yaml, hash: 'sha256:006e4de5a11e833de0cdd1a631700f4c51859d1bd2a3116d8e10165db1d5f4e4'}
+  - {seq: 2, filename: KR6i0368_002-X.yaml, hash: 'sha256:36e4cdcc688e3682cf22e2bb5561388a4a99274e316ee0fefd3c65bfa94730f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0368_000-X.markers.yaml, hash: 'sha256:4678132cc8d93a21ba56ea851413be5e5baa38527d42fb547d4c9c5853cead54'}
+  - {seq: 1, role: markers, filename: assets/KR6i0368_001-X.markers.yaml, hash: 'sha256:c675cf4246b4623407129da8fe22397f134db072df0fbc3ed91fc03c1a180732'}
+  - {seq: 2, role: markers, filename: assets/KR6i0368_002-X.markers.yaml, hash: 'sha256:ec7073eca8a31eeb98dfe40327d2c9b3bacdc886c29e36fbae800339a15a7bc2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0368_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 373-A 蘭盆經疏會古通今記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0368_X_000-mulu-2
+    span:
+    - front
+    - 202
+    - 202
+  label: 蘭盆經疏會古通今記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0368_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16057
+  label: 蘭盆經疏會古通今記卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0368_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17619
+  label: 蘭盆經疏會古通今記卷下
+  type: juan
+  level: 1
+hash: sha256:59e7e11ec7e011dbd84c07e1934e966fccf6ae1eef3af13695629156b8163cf1

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6i0368/x/v1/juan/0
+seq: 0
+front:
+  text: 蘭盆經疏會古通今記序光嚴無際大師普觀述吾祖圭峯禪師之疏蘭盆也邃古作者莫之與京講授流通為日固久石壁尊者創為之記孤山法師因循其說廣演證義芝園津師亦繼有斯述自孤山新鈔之出而石壁舊記世不復行蓋以文華為尚也竊嘗合諸輿本極思研精而和玉隋珠各矜其得矣良以乘教之有否臧文義之有斥的要乎盡美者為難能也前修不云乎所冀後之病今亦猶今之視昔故余不揣膚受牽拙以訂之庶乎公議有所存耳因以會古通今榜其名題惟知我者且不以斆顰狂斐之為誚乎
+  hash: sha256:015a3efdfa3b1fd8f96449b50d1aa2575eacd65a0f017a3a9aa1326b2c2f5995
+  markers:
+  - {type: 序, offset: 0, content: No. 373-A 蘭盆經疏會古通今記序, id: KR6i0368_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 202, content: 蘭盆經疏會古通今記, id: KR6i0368_X_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 盂蘭盆經疏會古通今記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0373.xml
+    old_id: X21n0373
+hash: sha256:740730588d28973117bb4d7743adab825f5b4b1bc4749e9b7eb81c2156937c9c
