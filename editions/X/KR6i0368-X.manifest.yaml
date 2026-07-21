@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0368_000-X.yaml, hash: 'sha256:75dc7c6ea7514725b8cfe1b936015a939e78f94834f11b3af730da3feef0512e'}
+  - {seq: 0, filename: KR6i0368_000-X.yaml, hash: 'sha256:9dbd50730ee37a1309918bf69e47e96f8c530bc69d54d1d5ac864f78ea3f9423'}
   - {seq: 1, filename: KR6i0368_001-X.yaml, hash: 'sha256:006e4de5a11e833de0cdd1a631700f4c51859d1bd2a3116d8e10165db1d5f4e4'}
   - {seq: 2, filename: KR6i0368_002-X.yaml, hash: 'sha256:36e4cdcc688e3682cf22e2bb5561388a4a99274e316ee0fefd3c65bfa94730f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0368_000-X.markers.yaml, hash: 'sha256:4678132cc8d93a21ba56ea851413be5e5baa38527d42fb547d4c9c5853cead54'}
+  - {seq: 0, role: markers, filename: assets/KR6i0368_000-X.markers.yaml, hash: 'sha256:308b3e2fb7b05bb0d8f9beaf68bb9fe6f7505021aca7b59b6a8e173dafdca2a9'}
   - {seq: 1, role: markers, filename: assets/KR6i0368_001-X.markers.yaml, hash: 'sha256:c675cf4246b4623407129da8fe22397f134db072df0fbc3ed91fc03c1a180732'}
   - {seq: 2, role: markers, filename: assets/KR6i0368_002-X.markers.yaml, hash: 'sha256:ec7073eca8a31eeb98dfe40327d2c9b3bacdc886c29e36fbae800339a15a7bc2'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0368_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 373-A 蘭盆經疏會古通今記序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0368_X_000-mulu-2
     span:
-    - front
+    - body
     - 202
     - 202
   label: 蘭盆經疏會古通今記
@@ -67,4 +67,4 @@ table_of_contents:
   label: 蘭盆經疏會古通今記卷下
   type: juan
   level: 1
-hash: sha256:59e7e11ec7e011dbd84c07e1934e966fccf6ae1eef3af13695629156b8163cf1
+hash: sha256:e677fe21533f23442a4044e292957830a863ac7fe3aa4305200f3f01ebe933c1
